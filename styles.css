@@ -1,0 +1,93 @@
+body {
+  background: black;
+  background-image: url('https://64.media.tumblr.com/c791346bbc73e6e7d9c3a7238ae19712/d0c0c1b058dc919b-c3/s1280x1920/a9271288ca6dff4550f5c0f94ff3a42c75ed55d1.jpg');
+  background-position: center;
+  background-repeat: no-repeat, no-repeat;
+  background-attachment: fixed;
+  backdrop-filter: blur(3px);
+}
+
+#name1 {
+  color: white;
+  text-align: center;
+  line-height: 20px;
+  font-family: Sans-serif;
+  background: rgb(0, 0, 0, .7);
+  max-width: 45%;
+  margin: 0 auto;
+}
+
+#name2 {
+  color: white;
+  text-align: center;
+  line-height: 20px;
+  font-family: Sans-serif;
+  background: rgb(0, 0, 0, .7);
+  max-width: 45%;
+  margin: 0 auto;
+}
+
+#back-drop {
+  color: white;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  width: 200px;
+  height: auto;
+  margin: 0 auto;
+}
+
+#tribute-info {
+  color: white;
+  max-width: 75%;
+  margin: 0 auto;
+  font-family: Sans-serif;
+}
+
+#life-timeline {
+  background: rgb(0, 0, 0, .7);
+  padding: 2px;
+  line-height: 2;
+}
+
+#drslump-timeline {
+  background: rgb(0, 0, 0, .7);
+  padding: 2px;
+  line-height: 2;
+}
+
+#dragon-ball-timeline {
+  background: rgb(0, 0, 0, .7);
+  padding: 2px;
+  line-height: 2;
+}
+
+.center{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#sources {
+  color: white;
+  background: rgb(0, 0, 0, .7);
+  padding: 2px;
+  line-height: 2;
+  max-width: 15%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+a:link {
+  color: 94, 141, 235;
+}
+
+a:visited {
+  color: rgb(81, 92, 173);
+}
+
+a:hover {
+  color: rgb(152, 237, 250)
+}
